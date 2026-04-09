@@ -1,2 +1,2 @@
-# Beecrowd
-Soluções de problemas do Beecrowd
+# Laboratório de Programação
+Soluções de problemas
