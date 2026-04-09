@@ -1,2 +1,2 @@
-# code
-my codes in C and Python
+# Beecrowd
+Soluções de problemas do Beecrowd
