@@ -1,2 +1,2 @@
-# Laboratório de Programação
-Soluções de problemas
+# laboratório de programação
+soluções de problemas
